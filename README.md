@@ -44,7 +44,7 @@
 
   - **GitLab:** [@archpaw](https://gitlab.com/archpaw)
   - **Terminal:** `fish + doom emacs + kitty + Qtile`
-  - **Estética:** ⚡ minimalista hacker com um toque de kawaii
+  - **Estética:** ⚡ minimalismo afiado com identidade
 
   ---
 
