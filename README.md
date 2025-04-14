@@ -3,58 +3,61 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Arch-blue?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Doom%20Emacs-57A143?style=for-the-badge&logo=gnuemacs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Kitty 🦁-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WM-Qtile-7B42BC?style=for-the-badge&logo=window-manager&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Kitty🦁-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Browser-IronFox🔥-orange?style=for-the-badge" />
 </p>
 
 ---
 
 > 🐾 _“Stay lightweight. Stay curious. Hack your environment.”_
 
+---
 
-# whoami
-> archpaw — Leão do terminal | full stack padawan | caçador de bugs
+# `whoami`
 
-**Full Stack Dev in progress** | Eletrônica + Linux + Web dev | Terminal addict & UI tweaker
+**archpaw** — Leão do terminal | caçador de bugs | full stack padawan
+
+Sou técnico em eletrônica, aficionado por Linux, segurança e performance no terminal. Desenvolvedor Full Stack em formação até **Dezembro/2025**, me especializo em ambientes enxutos, produtividade shell-based e personalizações afiadas que misturam utilidade com identidade visual.
 
 ---
 
-## Sobre mim
+## **Minha jungle tech**
 
-Sou técnico em eletrônica e entusiasta de Linux, segurança e produtividade no terminal. Estou cursando **Full Stack Developer** até Dezembro/2025 e desenvolvendo vários projetos com foco em automação, organização e interfaces enxutas.
-
-## Tecnologias que uso
-
-- **Front-end:** HTML, CSS (Tailwind, raw), JS (vanilla & frameworks)
+- **Front-end:** HTML, CSS (Tailwind, sem framework), JS (vanilla & libs)
 - **Back-end:** Node.js, Python, SQL (Oracle)
-- **Ambiente:** Arch Linux, Qtile, Doom Emacs, Git
+- **Ambiente:** Arch Linux, Qtile, Doom Emacs, fish shell, Git
 
 ---
 
-## Repositórios em destaque
+## **Identidade visual**
+
+- **Mascote:** Leão tech-cyber, com fogo metálico na cauda (IronFox vibes)
+- **Vibe:** hacker minimalista + terminal lover + cyberpunk sutil
+- **Setup:** Qtile + Kitty + Doom Emacs + HUD style com comandos flutuantes
+
+---
+
+## **Repositórios em destaque**
 
 | Projeto | Descrição |
 |--------|-----------|
-| [`dotfiles`](https://gitlab.com/archpaw/dotfiles) | Minha config personalizada para Arch + Qtile + terminal — tudo versionado. |
-| [`scripts`](https://gitlab.com/archpaw/scripts) | Scripts bash para manutenção, automações e pós-install. |
-| [`userOverridesArkenfox`](https://gitlab.com/archpaw/userOverridesArkenfox) | Overrides pessoais para o user.js do projeto Arkenfox no Firefox. |
-| [`layouts-landing-page-ex`](https://gitlab.com/archpaw/layouts-landing-page-ex) | Experimentos de layouts responsivos e limpos para web. |
-| [`calcula_peso_volume_pdf`](https://gitlab.com/archpaw/calcula_peso_volume_pdf) | Ferramenta em Python para extrair peso/volume de PDFs. |
-
-<!-- ---
-
-## Status de atividade
-
-![GitLab Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=archpaw&theme=tokyonight_duo) -->
+| [`dotfiles`](https://gitlab.com/archpaw/dotfiles) | Configs versionadas de tudo: Arch, Qtile, terminal, Doom Emacs. |
+| [`scripts`](https://gitlab.com/archpaw/scripts) | Scripts bash pra automação, manutenção e pós-install. |
+| [`userOverridesArkenfox`](https://gitlab.com/archpaw/userOverridesArkenfox) | Ajustes pessoais no `user.js` do Arkenfox, focado em segurança com leveza. |
+| [`layouts-landing-page-ex`](https://gitlab.com/archpaw/layouts-landing-page-ex) | Experimentos de front-end com responsividade e clean design. |
+| [`calcula_peso_volume_pdf`](https://gitlab.com/archpaw/calcula_peso_volume_pdf) | Extrator de peso e volume direto de PDFs via Python + regex mágica. |
 
 ---
 
-## Me encontra por aí
+## **Me encontra por aí**
 
 - **GitLab:** [@archpaw](https://gitlab.com/archpaw)
-- **Terminal:** `fish + doom emacs + kitty + Qtile`
-- **Estética:** ⚡ minimalismo afiado com identidade
+- **Hackyderm.io (mastodon):** [@archpaw](https://hachyderm.io/@archpaw)
+- **Terminal de ataque:** `fish + Doom Emacs + Kitty + Qtile`
+- **Aparência:** ⚡ estética funcional com alma de script
 
 ---
 
-_"Stay lightweight. Stay curious. Hack your environment."_  
-— archpaw
+> _"Domine o terminal. Personalize o caos. Seja leve, seja feroz."_  
+> — **archpaw**
