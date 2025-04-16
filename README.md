@@ -1,4 +1,7 @@
 <h1 align="center">🦁 archpaw</h1>
+<p align=center><img align="center" height="200" src="https://i.imgur.com/GucjxZT.png"></p>
+
+###
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Arch-blue?style=for-the-badge&logo=arch-linux&logoColor=white" />
