@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Linux-Arch-blue?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Doom%20Emacs-57A143?style=for-the-badge&logo=gnuemacs&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-Qtile-7B42BC?style=for-the-badge&logo=window-manager&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Kitty🦁-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terminal-Alacritty🚀-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Browser-IronFox🔥-orange?style=for-the-badge" />
 </p>
 
@@ -40,13 +40,13 @@ Sou técnico em eletrônica, aficionado por Linux, segurança e performance no t
 
 ## **Repositórios em destaque**
 
-| Projeto | Descrição |
-|--------|-----------|
-| [`dotfiles`](https://gitlab.com/archpaw/dotfiles) | Configs versionadas de tudo: Arch, Qtile, terminal, Doom Emacs. |
-| [`scripts`](https://gitlab.com/archpaw/scripts) | Scripts bash pra automação, manutenção e pós-install. |
-| [`userOverridesArkenfox`](https://gitlab.com/archpaw/userOverridesArkenfox) | Ajustes pessoais no `user.js` do Arkenfox, focado em segurança com leveza. |
-| [`layouts-landing-page-ex`](https://gitlab.com/archpaw/layouts-landing-page-ex) | Experimentos de front-end com responsividade e clean design. |
-| [`calcula_peso_volume_pdf`](https://gitlab.com/archpaw/calcula_peso_volume_pdf) | Extrator de peso e volume direto de PDFs via Python + regex mágica. |
+| Projeto                                                                         | Descrição                                                                  |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [`dotfiles`](https://gitlab.com/archpaw/dotfiles)                               | Configs versionadas de tudo: Arch, Qtile, terminal, Doom Emacs.            |
+| [`scripts`](https://gitlab.com/archpaw/scripts)                                 | Scripts bash pra automação, manutenção e pós-install.                      |
+| [`userOverridesArkenfox`](https://gitlab.com/archpaw/userOverridesArkenfox)     | Ajustes pessoais no `user.js` do Arkenfox, focado em segurança com leveza. |
+| [`layouts-landing-page-ex`](https://gitlab.com/archpaw/layouts-landing-page-ex) | Experimentos de front-end com responsividade e clean design.               |
+| [`calcula_peso_volume_pdf`](https://gitlab.com/archpaw/calcula_peso_volume_pdf) | Extrator de peso e volume direto de PDFs via Python + regex mágica.        |
 
 ---
 
@@ -59,5 +59,5 @@ Sou técnico em eletrônica, aficionado por Linux, segurança e performance no t
 
 ---
 
-> _"Domine o terminal. Personalize o caos. Seja leve, seja feroz."_  
+> _"Domine o terminal. Personalize o caos. Seja leve, seja feroz."_
 > — **archpaw**
