@@ -1,5 +1,5 @@
-<h1 align="center">🦁 archpaw</h1>
-<p align=center><img align="center" height="200" src="https://i.imgur.com/GucjxZT.png"></p>
+<h1 align="center">🦊 archpaw</h1>
+<p align="center"><img align="center" height="200" src="https://i.imgur.com/PJj7MLq.png"></p>
 
 ###
 
@@ -19,27 +19,27 @@
 
 # `whoami`
 
-**archpaw** — Leão do terminal | caçador de bugs | full stack padawan
+**archpaw** — Raposa do terminal | exploradora do shell | full stack padawan
 
-Sou técnico em eletrônica, aficionado por Linux, segurança e performance no terminal. Desenvolvedor Full Stack em formação até **Dezembro/2025**, me especializo em ambientes enxutos, produtividade shell-based e personalizações afiadas que misturam utilidade com identidade visual.
+Técnico em eletrônica, aficionado por Linux, segurança e ambientes enxutos. Em formação como Desenvolvedor Full Stack até **Dezembro/2025**, sou movido por setups minimalistas, automatização afiada e uma estética hacker com alma de script.
 
 ---
 
 ## **Minha jungle tech**
 
-- **Front-end:** HTML, CSS (Tailwind, sem framework), JS (vanilla & libs)
+- **Front-end:** HTML, CSS (Tailwind, zero bloat), JS (vanilla e libs)
 - **Back-end:** Node.js, Python, SQL (Oracle)
 - **Ambiente:** Arch Linux, Qtile, Doom Emacs, fish shell, Git
 
 ---
 
-## **Identidade visual**
+<!-- ## **Identidade visual**
 
-- **Mascote:** Leão tech-cyber, com fogo metálico na cauda (IronFox vibes)
-- **Vibe:** hacker minimalista + terminal lover + cyberpunk sutil
-- **Setup:** Qtile + Kitty + Doom Emacs + HUD style com comandos flutuantes
+- **Mascote:** Raposa estilizada com pelagem flamejante (referência Firefox), olhos brilhando com curiosidade e cauda com degradê em chamas
+- **Vibe:** cyberpunk leve, terminal-lover, open source chique
+- **Setup:** Qtile + Alacritty + Doom Emacs com HUD e scripts custom
 
----
+--- -->
 
 ## **Repositórios em destaque**
 
@@ -57,8 +57,8 @@ Sou técnico em eletrônica, aficionado por Linux, segurança e performance no t
 
 - **GitLab:** [@archpaw](https://gitlab.com/archpaw)
 - **Hackyderm.io (mastodon):** [@archpaw](https://hachyderm.io/@archpaw)
-- **Terminal de ataque:** `fish + Doom Emacs + Kitty + Qtile`
-- **Aparência:** ⚡ estética funcional com alma de script
+- **Terminal de ataque:** `fish + Doom Emacs + Alacritty + Qtile`
+- **Estética:** ⚡ leve, funcional e com personalidade
 
 ---
 
