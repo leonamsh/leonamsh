@@ -1,5 +1,4 @@
-<h1 align="center">🦊 archpaw</h1>
-<p align="center"><img align="center" height="200" src="https://i.imgur.com/PJj7MLq.png"></p>
+<p align="center"><img align="center" height="200" src="https://i.imgur.com/GuJpREw.png"></p>
 
 ###
 
@@ -8,38 +7,30 @@
   <img src="https://img.shields.io/badge/Editor-Doom%20Emacs-57A143?style=for-the-badge&logo=gnuemacs&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-Qtile-7B42BC?style=for-the-badge&logo=window-manager&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-Alacritty🚀-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Browser-IronFox🔥-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Browser-Brave-orange?style=for-the-badge&logo=brave&logoColor=white" />
 </p>
 
----
+# Archpaw
 
-> 🐾 _“Stay lightweight. Stay curious. Hack your environment.”_
-
----
-
-# `whoami`
-
-**archpaw** — Raposa do terminal | exploradora do shell | full stack padawan
-
-Técnico em eletrônica, aficionado por Linux, segurança e ambientes enxutos. Em formação como Desenvolvedor Full Stack até **Dezembro/2025**, sou movido por setups minimalistas, automatização afiada e uma estética hacker com alma de script.
+**Minimalismo, performance e estabilidade.**
 
 ---
 
-## **Minha jungle tech**
+Archpaw é um projeto voltado para o desenvolvimento de ferramentas simples, rápidas e confiáveis para ambientes Linux.
 
-- **Front-end:** HTML, CSS (Tailwind, zero bloat), JS (vanilla e libs)
-- **Back-end:** Node.js, Python, SQL (Oracle)
-- **Ambiente:** Arch Linux, Qtile, Doom Emacs, fish shell, Git
+Inspirado pela filosofia *Keep It Simple*, cada solução busca oferecer agilidade sem abrir mão da robustez e segurança.
+
+## Sobre
+
+- Scripts e automações para ambientes Unix-like.
+- Configurações otimizadas para terminais e sistemas Linux.
+- Desenvolvimento focado em eficiência, clareza e estabilidade.
+
+Atualmente, estou cursando **Desenvolvimento Full Stack Júnior** pela [MaisPraTi](https://curso.maisprati.com.br/), aprimorando habilidades em back-end, front-end e práticas modernas de desenvolvimento de software.
+
+Archpaw nasce da paixão por terminais enxutos, sistemas estáveis e liberdade tecnológica.
 
 ---
-
-<!-- ## **Identidade visual**
-
-- **Mascote:** Raposa estilizada com pelagem flamejante (referência Firefox), olhos brilhando com curiosidade e cauda com degradê em chamas
-- **Vibe:** cyberpunk leve, terminal-lover, open source chique
-- **Setup:** Qtile + Alacritty + Doom Emacs com HUD e scripts custom
-
---- -->
 
 ## **Repositórios em destaque**
 
@@ -53,14 +44,10 @@ Técnico em eletrônica, aficionado por Linux, segurança e ambientes enxutos. E
 
 ---
 
-## **Me encontra por aí**
-
-- **GitLab:** [@archpaw](https://gitlab.com/archpaw)
-- **Hackyderm.io (mastodon):** [@archpaw](https://hachyderm.io/@archpaw)
-- **Terminal de ataque:** `fish + Doom Emacs + Alacritty + Qtile`
-- **Estética:** ⚡ leve, funcional e com personalidade
+> **"Menos é mais — especialmente no terminal."**
 
 ---
 
-> _"Domine o terminal. Personalize o caos. Seja leve, seja feroz."_
-> — **archpaw**
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/leonam-monteiro-679200362) · [Mastodon](https://mastodon.social/@leonam) · [Email](contato.robotics893@passmail.net)
