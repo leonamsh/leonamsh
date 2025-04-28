@@ -50,4 +50,4 @@ Archpaw nasce da paixão por terminais enxutos, sistemas estáveis e liberdade t
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/leonam-monteiro-679200362) · [Mastodon](https://mastodon.social/@leonam) · [Email](contato.robotics893@passmail.net)
+[LinkedIn](https://www.linkedin.com/in/leonam-monteiro-679200362) · [Mastodon](https://hachyderm.io/@archpaw) · [Email](contato.robotics893@passmail.net)
