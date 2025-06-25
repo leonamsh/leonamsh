@@ -1,4 +1,4 @@
-<p align="center"><img align="center" height="200" src="https://i.imgur.com/GuJpREw.png"></p>
+<p align="center"><img align="center" height="200" src="https://i.imgur.com/6T5GU0n.png"></p>
 
 ###
 
@@ -10,15 +10,15 @@
   <img src="https://img.shields.io/badge/Browser-Brave-orange?style=for-the-badge&logo=brave&logoColor=white" />
 </p>
 
-# Archpaw
+# LeonamSh
 
 **Minimalismo, performance e estabilidade.**
 
 ---
 
-Archpaw é um projeto voltado para o desenvolvimento de ferramentas simples, rápidas e confiáveis para ambientes Linux.
+LeonamSh é um projeto voltado para o desenvolvimento de ferramentas simples, rápidas e confiáveis para ambientes Linux.
 
-Inspirado pela filosofia *Keep It Simple*, cada solução busca oferecer agilidade sem abrir mão da robustez e segurança.
+Inspirado pela filosofia _Keep It Simple_, cada solução busca oferecer agilidade sem abrir mão da robustez e segurança.
 
 ## Sobre
 
